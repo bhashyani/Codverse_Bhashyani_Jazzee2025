@@ -1,7 +1,5 @@
 # Codverse_Bhashyani_Jazzee2025
-# Uplife – Your Wallet’s Best Decision
-
-**Uplife** was built during a 48-hour hackathon with one simple goal in mind:  
+# Uplife – Your Wallet’s Best Decision 
 **Make personal finance simple, smart, and accessible for everyone.**
 
 We noticed that most people — especially salaried individuals — want to save or invest but don’t know *where to start*. Professional advisors are expensive, and finance apps are often either too generic or overloaded with confusing data.
@@ -17,9 +15,8 @@ We designed Uplife to be **as human as your financial dreams** — approachable,
 > "It’s not just an app. It’s a one-person financial partner that grows with you."
 
 ---
-
-## Pitch video
-https://youtu.be/gBtDdPJVQM8?si=q8jSPRmBVFu5l6Qc
+pitch video
+https://youtu.be/s_NEaow2Oxg?si=k2Y0LelMZLGWbiZJ
 
 ---
 
