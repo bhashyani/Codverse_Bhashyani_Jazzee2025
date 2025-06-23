@@ -1,22 +1,29 @@
 # Codverse_Bhashyani_Jazzee2025
-# Uplife – Your Wallet’s Best Decision 
-**Make personal finance simple, smart, and accessible for everyone.**
+# StartMap – Mapping your Startup Journey 
+Make starting up in India simple, guided, and stress-free.
 
-We noticed that most people — especially salaried individuals — want to save or invest but don’t know *where to start*. Professional advisors are expensive, and finance apps are often either too generic or overloaded with confusing data.
+We noticed that most aspiring entrepreneurs — especially in Tier 2 and 3 cities — have the drive, but get stuck in the maze of registrations, licenses, and legal terms. Government portals are scattered, and advisors are either costly or out of reach.
 
-So we created Uplife — an AI-driven finance companion that helps you:
--  Set personal goals (like a trip, marriage, or emergency fund)
--  Get clear saving & investment plans based on your income and needs
--  Use formula-based strategies (no third-party APIs, just logic you can trust)
--  Track your progress with transparency — we earn only when *you* succeed
+So we created StartMap — your AI-powered startup companion that helps you:
 
-We designed Uplife to be **as human as your financial dreams** — approachable, trustworthy, and personal.
+Understand exactly what licenses and documents you need, step-by-step
 
-> "It’s not just an app. It’s a one-person financial partner that grows with you."
+Auto-fill and simplify government forms with voice assistance and smart logic
+
+Visualize your startup journey with clear flowcharts and milestones
+
+Get matched with the right schemes, mentors, and investors based on your goals
+
+We designed StartMap to be as smart as your ideas and as simple as your intent — reliable, inclusive, and empowering.
+
+"It’s not just an app. It’s your co-founder for all things legal, formal, and foundational."
 
 ---
 pitch video
-https://youtu.be/s_NEaow2Oxg?si=k2Y0LelMZLGWbiZJ
+https://youtu.be/-Hx4v26sxmk?si=X6mCfyUMfuhM_vxW
+
+Figma Prototype Link
+https://www.figma.com/proto/h0XugqanA4LrR0a7B7iCmP/StartMap?node-id=0-1&t=i1SDpOpHIKFCdhU2-1
 
 ---
 
